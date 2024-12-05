@@ -7,3 +7,5 @@ Repositório possui relatórios propostos em desafio. Trata-se análise da dados
 - Relatório de vendas considerando produtos e segmento
 - Relatório de vendas considerando países e lucro
 - Distribuição de Lucro, Vendas e  Unidades vendidas por país e segmento
+
+[Relatórios](desafio_relatorio_financials/desafio_relatorio_financials.pdf)
